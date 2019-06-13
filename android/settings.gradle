@@ -1,0 +1,3 @@
+rootProject.name = 'survival_of_the_ai_4596'
+
+include ':app'

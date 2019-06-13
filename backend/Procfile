@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT survival_of_the_ai_4596.wsgi:application
